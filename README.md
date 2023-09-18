@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Harbeer Kehal, an undergraduate student studying software engineering at Western University. 
 
 <!--
 **hkehal13/hkehal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
